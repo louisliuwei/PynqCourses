@@ -20,7 +20,7 @@
         * [Zynq嵌入式设计流程](https://github.com/xupgit/Embedded-System-Design-Flow-on-Zynq)
         * [Zynq高级嵌入式设计流程](https://github.com/xupgit/Advanced-Embedded-System-Design-Flow-on-Zynq)
     * 《片上系统开发与Python实践》
-        * [图像Resize](https://github.com/Xilinx/PYNQ-HelloWorld/blob/master/README.md)
+        * [中国大学MOOC课程](https://www.icourse163.org/course/BIT-1003405002)
     * 《SoC设计方法学》
         * [图像Resize](https://github.com/Xilinx/PYNQ-HelloWorld/blob/master/README.md)
     * 《嵌入式系统软硬件协同设计》
