@@ -2,7 +2,11 @@
 
 ## PYNQ框架的实验课程体系
 PYNQ框架支持电子信息类与计算机类专业的多门基础课与专业课，可作为从大一到大四的统一实验教学平台，真正意义上实现贯穿式统一教学。
-![img](images/PynqCourses.PNG)
+<p align="center">
+<img src ="images/PynqCourses.PNG">
+</p>
+<p align = "center">
+</p>
 
 本文主要对不同课程的已有PYNQ实验案例做一个归纳整理，如果您有课程开设需要或者相关培训需求，请关注Xilinx技术社区公众号获取最新技术资料更新与培训信息，或者通过邮箱联系。xup_china@xilinx.com
 <p align="center">
@@ -21,8 +25,12 @@ PYNQ是Python On Zynq的缩写，它是一个开源软件框架，通过高层�
 - 嵌入式Linux
 - Ubuntu文件管理系统
 - FPGA的硬件库与Python API
-![img](images/PYNQ.PNG)
+
+<p align="center">
+<img src ="images/PYNQ.PNG">
+</p>
+<p align = "center">
+</p>
 
 
-
-关于PYNQ软件框架的详细信息请打开[PYNQ官方网站](www.pynq.io)。同时也给大家准备了[PYNQ中文学习资料](https://pynqdocs.gitbook.io/pynq-tutorial/)。
+请打开[PYNQ官方网站](www.pynq.io)获取PYNQ软件框架的详细介绍与PYNQ社区的已有Overlay汇总。同时也给大家准备了[PYNQ中文学习资料](https://pynqdocs.gitbook.io/pynq-tutorial/)。
