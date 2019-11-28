@@ -16,6 +16,7 @@
     * 《HLS编程思想》
         * [HLS官方培训资料](https://github.com/xupgit/High-Level-Synthesis-Flow-on-Zynq-using-Vivado-HLS)
         * [UCSD课程案例](http://kastner.ucsd.edu/ryan/cse237c/)
+        * [FPGA并行编程中文版](https://xupsh.gitbook.io/pp4fpgas-cn/)
     * 《嵌入式设计》
         * [Zynq嵌入式设计流程](https://github.com/xupgit/Embedded-System-Design-Flow-on-Zynq)
         * [Zynq高级嵌入式设计流程](https://github.com/xupgit/Advanced-Embedded-System-Design-Flow-on-Zynq)
