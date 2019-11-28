@@ -8,7 +8,7 @@ PYNQ框架支持电子信息类与计算机类专业的多门基础课与专业�
 <p align = "center">
 </p>
 
-本文主要对不同课程的已有PYNQ实验案例做一个归纳整理，如果您有课程建设或者相关培训需求，请关注Xilinx技术社区公众号获取最新技术资料与培训信息，或者通过邮箱咨询。xup_china@xilinx.com
+本文主要对不同课程的已有PYNQ实验案例做一个归纳整理，如果您有课程建设或者相关培训需求，请关注**Xilinx技术社区**公众号获取最新技术资料与培训信息，或者通过邮箱咨询。xup_china@xilinx.com
 <p align="center">
 <img src ="images/qrcode_Xilinx_Small.jpg">
 </p>
