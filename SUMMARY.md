@@ -4,7 +4,7 @@
 * Pynq课程案例
     * 《数字信号处理课程》
         * [FFT与Fir滤波器在PYNQ上的实现](https://github.com/louisliuwei/pynq_x_filter/blob/master/README.md)
-        * [Fir滤波器案例]https://github.com/hackwa/pynqfire
+        * [Fir滤波器案例](https://github.com/hackwa/pynqfire)
     * 《数字图像处理课程》
         * [图像Resize](https://github.com/Xilinx/PYNQ-HelloWorld/blob/master/README.md)
         * [卡尔曼滤波](https://github.com/sfox14/pynq-ekf)
@@ -22,15 +22,12 @@
     * 《片上系统开发与Python实践》
         * [中国大学MOOC课程](https://www.icourse163.org/course/BIT-1003405002)
     * 《SoC设计方法学》
-        * [图像Resize](https://github.com/Xilinx/PYNQ-HelloWorld/blob/master/README.md)
     * 《嵌入式系统软硬件协同设计》
-        * [图像Resize](https://github.com/Xilinx/PYNQ-HelloWorld/blob/master/README.md)
     * 《计算机组成原理 - RISC-V》
         * [RISC-V-On-PYNQ](https://github.com/drichmond/RISC-V-On-PYNQ/blob/master/README.md)
     * 《深度学习加速器设计》
         * [Machine Learning on Xilinx FPGAs with FINN](http://xilinx.github.io/finn)
         * [FPGA-based neural network inference](https://github.com/fpgasystems/spooNN)
     * 《人工智能应用》
-        * [图像Resize](https://github.com/Xilinx/PYNQ-HelloWorld/blob/master/README.md)
+        * [PYNQ-DPU AI加速小车](https://github.com/wutianze/pynq_car)
     * 《智能机器人系统》
-        * [图像Resize](https://github.com/Xilinx/PYNQ-HelloWorld/blob/master/README.md)
