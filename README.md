@@ -25,4 +25,4 @@ PYNQ是Python On Zynq的缩写，它是一个开源软件框架，通过高层�
 
 
 
-关于PYNQ软件框架的详细信息请打开PYNQ官方网站www.pynq.io。同时也给大家准备了PYNQ中文学习资料https://pynqdocs.gitbook.io/pynq-tutorial/。
+关于PYNQ软件框架的详细信息请打开[PYNQ官方网站](www.pynq.io)。同时也给大家准备了[PYNQ中文学习资料](https://pynqdocs.gitbook.io/pynq-tutorial/)。
