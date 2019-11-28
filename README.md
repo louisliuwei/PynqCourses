@@ -32,5 +32,8 @@ PYNQ是Python On Zynq的缩写，它是一个开源软件框架，通过高层�
 <p align = "center">
 </p>
 
-
 请打开[PYNQ官方网站](www.pynq.io)获取PYNQ软件框架的详细介绍与PYNQ社区的已有Overlay汇总。同时也给大家准备了[PYNQ中文学习资料](https://pynqdocs.gitbook.io/pynq-tutorial/)。
+
+
+
+*附本文[gitbook链接](https://pynqdocs.gitbook.io/pynq-courses/)*
