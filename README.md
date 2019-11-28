@@ -1,12 +1,15 @@
 # 基于PYNQ框架的实验课程体系介绍
 
 ## PYNQ框架的实验课程体系
-PYNQ框架支持电子信息类与计算机类的多门基础课与专业课，可作为从大一到大四的多门课程统一平台，真正意义上实现贯穿式统一教学。
+PYNQ框架支持电子信息类与计算机类专业的多门基础课与专业课，可作为从大一到大四的统一实验教学平台，真正意义上实现贯穿式统一教学。
 ![img](images/PynqCourses.PNG)
 
 本文主要对不同课程的已有PYNQ实验案例做一个归纳整理，如果您有课程开设需要或者相关培训需求，请关注Xilinx技术社区公众号获取最新技术资料更新与培训信息，或者通过邮箱联系。xup_china@xilinx.com
-
-![](images/qrcode_Xilinx_Small.jpg)
+<p align="center">
+<img src ="images/qrcode_Xilinx_Small.jpg">
+</p>
+<p align = "center">
+</p>
 
 ## 什么是PYNQ？
 
